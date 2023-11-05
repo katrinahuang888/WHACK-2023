@@ -1,0 +1,10 @@
+Region,Currency,Exchange Rate (USD:Foreign),Terrorist Level Warning (UN)
+North Africa and Middle East,"Moroccan Dirham, Algerian Dinar","Dirham - 1:10.20, Dinar - 1:135.46",Level 2: Exercise Increased Caution
+South Africa,South African Rand,Rand - 1:18.21,Level 2: Exercise Increased Caution
+Central and Southeast Asia,"There are many currencies in this region. Please search up based on specific nation! But, greenbacks are generally accepted!",There are many currencies in this region. Please search up based on specific nation!,Level 1: Exercise Normal Precautions
+Europe,Euro,Euro - 1:0.93,Level 2: Exercise Increased Caution
+Central America,"There are many currencies in this region. Please search up based on specific nation! But, greenbacks are generally accepted!",There are many currencies in this region. Please search up based on specific nation!,Level 3: Reconsider Travel
+South America,"Argentine peso, Brazilian real, For more currencies, please search up your specific nation!","Peso - 1:0.0029, Real - 1:0.20, For more currencies, please search up your specific nation!",Level 2: Exercise Increased Caution
+East Asia,"China Yuan, Japan Yen, South Korean Won, For more currencies, please search up your specific nation!","Yuan - 1:7.30, Yen - 1:149.37, Won - 1:1309.02, For more currencies, please search up your specific nation!",Level 1: Exercise Normal Precautions
+South Asia,"Indian Rupee, Pakistani Rupee, Afghan Afghani, For more currencies, please search up your specific nation!","Indian Rupee - 1:83.16, Pakistani Rupee - 1:278.40, Afghani - 1:72.86, For more currencies, please search up your specific nation!",Level 2: Exercise Increased Caution
+North America,"United States Dollar, Mexican Peso, Canadian Dollar","USD - 1:1; Peso - 1:17.46, CanDollar - 1:0.73",Level 1: Exercise Normal Precautions
